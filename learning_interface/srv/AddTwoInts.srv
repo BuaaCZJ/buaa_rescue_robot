@@ -1,0 +1,4 @@
+float32 a        # 第一个加数
+float32 b        # 第二个加数
+---
+float32[16] summary      # 求和结果

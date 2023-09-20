@@ -1,0 +1,29 @@
+#服务名：inverse_kinematics
+float32 x                       #position
+float32 y
+float32 z
+float32 alpha                   #orientation
+float32 beta
+float32 gamma
+
+#服务名：forward_kinematics
+float32 a
+float32 b
+float32 c
+float32 d
+float32 e
+float32 f
+---
+#服务名：inverse_kinematics
+float32 theta1                 #joint angle
+float32 theta2
+float32 theta3
+float32 theta4
+float32 theta5
+float32 theta6
+
+
+#服务名：forward_kinematics    
+float32 summary                #summary
+
+
